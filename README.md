@@ -2,6 +2,7 @@
 キーボード名：GeaconSolstice  
 [roBa](https://github.com/kumamuk-git/roBa)や、[GRIN One](https://note.com/policium/n/nc7ceb56d11fe)にインスパイアされて設計したGeaconを、さらに発展させたオリジナルキーボードです。
 
+
 ## 謝辞
 トラックボールケースはkepeoさんのデータを利用させていただきました。  
 [Keyball Trackball Case (Test) by kepeo - Thingiverse](https://www.thingiverse.com/thing:6749719)  
